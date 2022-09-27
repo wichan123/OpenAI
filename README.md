@@ -4,7 +4,7 @@
 [![Documentation][documentation badge]][documentation]
 
 A Swift client for the [OpenAI API](https://beta.openai.com/).
-
+ 
 ## Requirements
 
 - Swift 5.3+
